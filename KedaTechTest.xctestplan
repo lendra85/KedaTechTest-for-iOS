@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "FC0B937C-1278-4387-89E5-3674421C82BD",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:KedaTechTest.xcodeproj",
+      "identifier" : "4805A4DF2A43F2D3002514A6",
+      "name" : "KedaTechTest"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:KedaTechTest.xcodeproj",
+        "identifier" : "4805A4EF2A43F2D5002514A6",
+        "name" : "KedaTechTestTests"
+      }
+    }
+  ],
+  "version" : 1
+}
